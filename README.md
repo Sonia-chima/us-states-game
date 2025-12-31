@@ -1,4 +1,4 @@
-# 🇺🇸 US States Guessing Game (Python Turtle)
+# US States Guessing Game (Python Turtle)
 
 An educational Python game built using the **Turtle graphics module** that helps users learn and memorize the 50 states of the United States.
 
